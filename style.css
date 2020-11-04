@@ -18,14 +18,24 @@
         margin:0;
     }
 
-    .propagandas a {
-        float: left;
-        color: #f2f2f2;
-        text-align: center;
-        padding: 14px 16px;
-        text-decoration: none;
-        font-size: 17px;
-        background: grey;
+   
+    .imagem1 {
+        background-image: url('https://cutewallpaper.org/21/background-images-1080p/79-1080P-Black-Wallpapers-on-WallpaperPlay.jpg');
+        width:100%;
+        padding:100px;
+        text-align: center  ;
+        width: 100%;
+        height: auto;
+        
+    }
+    
+    .imagem3 {
+        background-image: url('https://cdn.wallpapersafari.com/57/81/XJQ7WU.jpg');
+        width:100%;
+        height: auto;
+        padding:100px;
+        text-align: center  ;
+        
     }
     
     .topnav a:hover {
@@ -46,15 +56,19 @@
         bottom:0;
         width:100%;
         height:100%;
-        padding:100px;
-        background: grey;
+        background: black;
         text-align: center;
-        font-size: 50px;
         margin:0;
     }
+    .footer p{
+        
+        text-align: center;
+        color: #ddd;
+    }
 
-    .footer a{
+    
 
-        margin-left:100px;
+    .titulo-1{
+        color: #ddd;
     }
 
